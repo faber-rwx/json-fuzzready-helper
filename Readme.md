@@ -1,5 +1,4 @@
 # JSON FuzzReady Helper - Burp Repeater Extension
-Author	: Francesco Oddo <francesco.oddo@mdsec.co.uk>
 
 Intro
 --
